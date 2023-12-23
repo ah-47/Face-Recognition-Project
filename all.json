@@ -1,0 +1,32 @@
+{
+    "department": [
+      "Select Department",
+      "Computer Science",
+      "Information Technology",
+      "Software Engineering",
+      "Artificial Intelligence",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Chemical Engineering",
+      "Business Administration",
+      "Economics",
+      "Law",
+      "English",
+      "Urdu",
+      "History",
+      "Math"
+    ],
+
+    "smester": [
+      "Select Smester",
+      "1st",
+      "2nd",
+      "3rd",
+      "4th",
+      "5th",
+      "6th",
+      "7th",
+      "8th"
+    ]
+}  
